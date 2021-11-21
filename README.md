@@ -1,0 +1,3 @@
+# Generics
+
+Learning generic typescript 🚀
